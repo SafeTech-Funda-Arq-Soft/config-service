@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Safe-Technology-Funda-Arq-Soft/config-data.git
+          uri: https://github.com/SafeTech-Funda-Arq-Soft/config-data.git
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
           default-label: "master"
